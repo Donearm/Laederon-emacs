@@ -1,7 +1,7 @@
 ;;; Laederon - A color scheme for Vim with cold, nature-inspired colours 
 ;;on a white background 
 
-;; Copyright © 2015 Gianluca Fiore
+;; Copyright © 2015-2017 Gianluca Fiore
 ;; Author: Gianluca Fiore
 ;; Url: https://github.com/Donearm/laederon-emacs
 ;; Version: 0.1
